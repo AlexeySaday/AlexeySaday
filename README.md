@@ -13,3 +13,5 @@
 - DataBase: MySQL, PostgreSQL, Entity Framework
 ## Now
 I am actively looking for a job and at the same time developing my programming skills now 
+## Contact me
+You can contact me via [Telegram](https://t.me/AlexeyKildyushev)
