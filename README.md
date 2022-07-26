@@ -13,5 +13,9 @@
 - DataBase: MySQL, PostgreSQL, Entity Framework
 ## Now
 I am actively looking for a job. I am developing a CRM system. This is a large project, which will have a separate web application for the client, an application for the administrator and a telegram bot. So, I don't sit around 
+## Skills (except programming)
+- I well-know mathematics and physics. At school, I participated in many regional and All-Russian Olympiads in these two subjects.
+- I tried myself in graphic design a year ago. There is own 3d model of a military aircraft in `Blender`
+- I read the documentation in English perfectly and I have an intermediate English level 
 ## Contact me
 You can contact me via [Telegram](https://t.me/AlexeyKildyushev)
