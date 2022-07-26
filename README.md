@@ -12,6 +12,6 @@
 - Backend: ASP.NET, ASP.NET Core, ASP.NET MVC
 - DataBase: MySQL, PostgreSQL, Entity Framework
 ## Now
-I am actively looking for a job and at the same time developing my programming skills now 
+I am actively looking for a job. I am developing a CRM system. This is a large project, which will have a separate web application for the client, an application for the administrator and a telegram bot. So, I don't sit around 
 ## Contact me
 You can contact me via [Telegram](https://t.me/AlexeyKildyushev)
