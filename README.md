@@ -7,7 +7,7 @@
 - In addition to programming in my free time, I like to read books📖, especially psychological literature, which helps me to fully immerse myself in a book.
 - When I first encountered programming, I realized that this would be my favorite thing for the rest of my life.
 ## Stack
-- Languages: `main`C#, `additional:`C++, Python, JavaScript
+- Languages: `main`C#, JavaScript `additional:`C++, Python
 - Frontend: `web:` HTML, CSS, `desktop:` WPF
 - Backend: ASP.NET, ASP.NET Core, ASP.NET MVC
 - DataBase: MySQL, PostgreSQL, Entity Framework
