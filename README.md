@@ -1,7 +1,7 @@
 
 # 👋Hello everyone! I am Alexey Kildyushev
 ## A few facts about me
-- I am 18. I live in Kazan🐉
+- I live in Kazan🐉
 - I've been doing a deep study of programming for more than a year📚
 - It's not hard for me to code 60 hours a week⚡👨‍💻⚡
 - In addition to programming in my free time, I like to read books📖, especially psychological literature, which helps me to fully immerse myself in a book.
